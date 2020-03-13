@@ -1,0 +1,9 @@
+.user-container {
+    padding: 0 110px;
+}
+
+@media only screen and (max-width: 991px){
+    .user-container {
+        padding: 0 20px;
+    }
+}
